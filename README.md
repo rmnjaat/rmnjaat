@@ -8,8 +8,9 @@ Welcome to my GitHub profile! I'm a passionate **Software Developer** and **DevO
 - Building REST APIs and diving deeper into cloud technologies like **AWS**  
 
 🌱 **Learning**:  
-- **DevOps** practices, focusing on CI/CD pipelines, containerization, and orchestration  
-- **Machine Learning** to integrate intelligent features into applications
+- **DevOps** practices, focusing on CI/CD pipelines, containerization, and orchestration
+- **AWS** Exploring AWS services like EC2, Load Balancers , Auto Scaling , Identity and access managment,  Elastic Block Storage,
+  S3.
 
 ---
 
