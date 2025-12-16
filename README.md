@@ -66,8 +66,14 @@ You can reach me through the following platforms:
   </a>
 </div>
 
+#### 📅 Contribution Heatmap Calendar
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ramanjangu1&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
+  <img src="https://ghchart.rshah.org/409ba5/ramanjangu1" alt="Contribution Heatmap" />
+</div>
+
+#### 📈 Activity & Streak Stats
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ramanjangu1&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" />
 </div>
 
 <div align="center">
