@@ -66,15 +66,9 @@ You can reach me through the following platforms:
   </a>
 </div>
 
-#### 📅 Contribution Heatmap Calendar
+#### 🎯 Contribution Activity Timeline
 <div align="center">
-  <img src="https://ghchart.rshah.org/ramanjangu1" alt="GitHub Contribution Heatmap" />
-</div>
-
-#### 📈 GitHub Statistics
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ramanjangu1&show_icons=true&theme=radical&count_private=true&hide_title=false&include_all_commits=true" alt="Company GitHub Stats" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ramanjangu1&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ramanjangu1&theme=github" alt="Contribution Timeline" />
 </div>
 
 ---
@@ -82,8 +76,8 @@ You can reach me through the following platforms:
 ### 💻 Personal Projects & Open Source
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rmnjaat&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rmnjaat&layout=compact&theme=radical&langs_count=8" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rmnjaat&show_icons=true&theme=default&count_private=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rmnjaat&layout=compact&theme=default&langs_count=8" alt="Top Languages" />
 </div>
 
 ---
