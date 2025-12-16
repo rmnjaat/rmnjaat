@@ -79,17 +79,3 @@ You can reach me through the following platforms:
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rmnjaat&show_icons=true&theme=default&count_private=true" alt="GitHub Stats" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rmnjaat&layout=compact&theme=default&langs_count=8" alt="Top Languages" />
 </div>
-
----
-## 📊 Visitor Count
-
-<p align="center" style="font-size:25px">
-    Visitor Count<br>
-    <br>
-    <img src="https://profile-counter.glitch.me/rmnjaat/count.svg" />
-</p>
-
----
-
-
-⭐ *If you find my work inspiring, don't forget to star my repositories!*
