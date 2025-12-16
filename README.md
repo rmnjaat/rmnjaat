@@ -57,7 +57,27 @@ You can reach me through the following platforms:
 
 ---
 
-##  GitHub Stats  
+## 📊 GitHub Stats  
+
+### 🏢 Professional Contributions (Company Account)
+<div align="center">
+  <a href="https://github.com/ramanjangu1">
+    <img src="https://img.shields.io/badge/Company_Account-ramanjangu1-181717?style=for-the-badge&logo=github&logoColor=white" alt="Company Account" />
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ramanjangu1&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
+</div>
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ramanjangu1&show_icons=true&theme=radical&count_private=true&hide_title=false&include_all_commits=true" alt="Company GitHub Stats" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ramanjangu1&theme=radical" alt="GitHub Streak" />
+</div>
+
+---
+
+### 💻 Personal Projects & Open Source
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rmnjaat&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
