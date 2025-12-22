@@ -6,7 +6,6 @@ Welcome to my GitHub profile! I'm a passionate **Software Developer** and **DevO
 - **SDE Intern at Astuto AI** - Architecting multi-tenant Dagster pipelines for AWS cost optimization
 - Full-stack development with **React**, **Spring Boot**, **Node.js**, and **FastAPI**
 - Optimizing **ClickHouse** queries on billion-row datasets and building scalable microservices with **Go**
-- Enhancing my **DevOps** skills with CI/CD, **Docker**, and **Kubernetes**  
 - Building REST APIs and cloud solutions with **AWS** (EC2, RDS, ECS, SQS, S3)
 
 🌱 **Learning**:  
