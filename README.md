@@ -1,6 +1,6 @@
 # Hi there, I'm Raman! 👋
 
-Welcome to my GitHub profile! I'm a passionate **Software Developer** and **DevOps Enthusiast**, constantly learning and building innovative solutions to tackle real-world problems. Let's connect and collaborate!
+Welcome to my GitHub profile! I'm a passionate **Software Developer** , constantly learning and building innovative solutions to tackle real-world problems. Let's connect and collaborate!
 
 🔭 **Currently Working On**:  
 - **SDE Intern at Astuto AI** - Architecting multi-tenant Dagster pipelines for AWS cost optimization
