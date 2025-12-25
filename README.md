@@ -2,6 +2,21 @@
 
 Welcome to my GitHub profile! I'm a passionate **Software Developer** , constantly learning and building innovative solutions to tackle real-world problems. Let's connect and collaborate!
 
+
+### 🏢 Professional Contributions (Company Account)
+<div align="center">
+  <a href="https://github.com/ramanjangu1">
+    <img src="https://img.shields.io/badge/Company_Account-ramanjangu1-181717?style=for-the-badge&logo=github&logoColor=white" alt="Company Account" />
+  </a>
+</div>
+
+#### 🎯 Contribution Activity Timeline
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ramanjangu1&theme=github" alt="Contribution Timeline" />
+</div>
+
+
+
 🔭 **Currently Working On**:  
 - **SDE Intern at Astuto AI** - Architecting multi-tenant Dagster pipelines for AWS cost optimization
 - Full-stack development with **React**, **Spring Boot**, **Node.js**, and **FastAPI**
@@ -57,20 +72,6 @@ You can reach me through the following platforms:
 ---
 
 ## 📊 GitHub Stats  
-
-### 🏢 Professional Contributions (Company Account)
-<div align="center">
-  <a href="https://github.com/ramanjangu1">
-    <img src="https://img.shields.io/badge/Company_Account-ramanjangu1-181717?style=for-the-badge&logo=github&logoColor=white" alt="Company Account" />
-  </a>
-</div>
-
-#### 🎯 Contribution Activity Timeline
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ramanjangu1&theme=github" alt="Contribution Timeline" />
-</div>
-
----
 
 ### 💻 Personal Projects & Open Source
 
