@@ -1,4 +1,4 @@
-# Hi there, I'm Raman! 👋
+# Hi there, I'm Raman jangu! 👋
 
 Welcome to my GitHub profile! I'm a passionate **Software Developer** , constantly learning and building innovative solutions to tackle real-world problems. Let's connect and collaborate!
 
